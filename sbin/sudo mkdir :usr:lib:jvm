@@ -1,0 +1,11 @@
+sudo mkdir /usr/lib/jvm
+sudo mkdir /usr/lib/jvm/jdk1.8.0_281
+sudo mkdir /home/spark
+sudo mkdir /home/spark/opt
+sudo mkdir /home/spark/opt/module
+sudo mkdir /home/spark/opt/monitor
+sudo mkdir /home/spark/opt/monitor/logs
+
+
+sudo visudo
+spark  ALL=(ALL)   NOPASSWD: ALL
