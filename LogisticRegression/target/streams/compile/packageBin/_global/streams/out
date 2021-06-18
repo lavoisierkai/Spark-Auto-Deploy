@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/logisticregression_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/classes/org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/siti[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/classes/org/siti[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/siti/bigdata[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/classes/org/siti/bigdata[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/siti/bigdata/examples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/classes/org/siti/bigdata/examples[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/siti/bigdata/examples/LogisticRegressionExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/classes/org/siti/bigdata/examples/LogisticRegressionExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/siti/bigdata/examples/LogisticRegressionExample$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/classes/org/siti/bigdata/examples/LogisticRegressionExample$$typecreator5$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/siti/bigdata/examples/LogisticRegressionExample$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/classes/org/siti/bigdata/examples/LogisticRegressionExample$$typecreator13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/siti/bigdata/examples/LogisticRegressionExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/classes/org/siti/bigdata/examples/LogisticRegressionExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/siti/bigdata/examples/LogisticRegressionExample$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/classes/org/siti/bigdata/examples/LogisticRegressionExample$$typecreator4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/siti/bigdata/examples/LogisticRegressionExample$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/classes/org/siti/bigdata/examples/LogisticRegressionExample$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/siti/bigdata/examples/LogisticRegressionExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/kaihu/Desktop/LogisticRegression/target/scala-2.11/classes/org/siti/bigdata/examples/LogisticRegressionExample$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

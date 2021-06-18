@@ -1,0 +1,11 @@
+#!/bin/bash
+ssh spark@localhost -p 10000 "hdfs dfsadmin -safemode leave"
+ssh spark@localhost -p 10000 "rm /home/spark/data/*"
+for file in `seq -f %1.0f 16200000 300000 18000000`;
+do
+	echo ===================== $file =====================
+	rsync -azP -e  "ssh -p 10000" ./LR_data_original$file.csv  spark@localhost:/home/spark/data
+done
+ssh spark@localhost -p 10000 "hdfs dfs -put /home/spark/data/* /LR_data"
+
+

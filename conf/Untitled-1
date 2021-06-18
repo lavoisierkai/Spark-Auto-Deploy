@@ -1,0 +1,6 @@
+cd /home/spark/opt/module/spark-2.4.5-bin-hadoop2.7
+bash sbin/stop-all.sh
+cat conf/slaves
+cp conf/slaves10 conf/slaves
+cat conf/slaves
+bash sbin/start-all.sh
