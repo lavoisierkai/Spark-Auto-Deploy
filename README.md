@@ -1,4 +1,4 @@
-s# Cluster Manager
+# Cluster Manager
 Make use of Fabric to deploy and manage the size of a Spark Cluster.
 
 ## Preparation
